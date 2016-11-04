@@ -18,7 +18,7 @@ public class DBtable {
 	public SortedMap<Integer, DBcolumn> columns = new TreeMap<>();
 
 	SortedMap<Integer,DBtableRow> rowData = new TreeMap<>();
-	int currentRowNumber = 0;
+	public int currentRowNumber = 0;
 
 //	private ResultSet rs;
 //	private ResultSetMetaDataGenerate rsmd = new ResultSetMetaDataGenerate();
