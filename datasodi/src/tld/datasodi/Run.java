@@ -24,7 +24,7 @@ public class Run {
 		DBcolumn dbc_1_1 = new DBcolumn(dbt_1, "OP_NUMBER", "NONE");
 		DBcolumn dbc_1_2 = new DBcolumn(dbt_1, "NIMI2", "SCRAMBLE");
 		dbt_1.insert("1","Aadam");
-		dbt_1.insert("2","Joonas");
+		dbt_1.insert("2","Ieva");
 		dbt_1.insert("3","Loppen-\"Busch");
 
 		
